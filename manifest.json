@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "version":"1.1",
+    "name":"Leads tracker",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"https://media.istockphoto.com/vectors/money-icon-vector-dollar-symbol-sign-vector-id1226810736?k=20&m=1226810736&s=170667a&w=0&h=7uv1nEburBHnW31RxxgnmyUhtcrJOWEyo1M5WEDaF4g="
+    },
+    "permissions":["tabs"]    
+}

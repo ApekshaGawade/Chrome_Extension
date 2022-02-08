@@ -1,0 +1,39 @@
+:root
+{
+    --greencolor: #5f9341;
+}
+body
+{
+    font-family:Arial,Helvetica,sans-serif;
+    min-width:400px;
+}
+input
+{
+    border: 2px solid var(--greencolor);
+    padding:10px;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom:20px;
+}
+button
+{
+    background:var(--greencolor);
+    border:2px solid var(--greencolor);
+    padding:10px 20px;
+    color: white;
+    font-weight: bold;
+}
+#delete-btn {
+    background: white;
+    color: var(--greencolor);
+}
+ul
+{
+    list-style: none;
+    padding:20px 5px;
+    margin:0;
+}
+li a{
+    color:var(--greencolor);
+    text-decoration: underline var(--greencolor);
+}
